@@ -1,4 +1,11 @@
+/*
+* Author: LastKnell
+* Link: https://github.com/LastKnell/utils/blob/main/Color.java
+* Very Use Full
+*/
+
 public class Color {
+    
     public static final String RESET = "\u001B[0m";
 
     public static final String BLACK = "\u001B[30m";
