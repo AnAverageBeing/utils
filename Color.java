@@ -2,6 +2,7 @@
 * Author: LastKnell
 * Link: https://github.com/LastKnell/utils/blob/main/Color.java
 * Very Use Full
+* Ansi color codes
 */
 
 public class Color {
